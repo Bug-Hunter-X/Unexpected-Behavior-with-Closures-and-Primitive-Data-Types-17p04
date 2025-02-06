@@ -1,0 +1,1 @@
+The original code is correct. There is no bug. The closure correctly captures the values of x and y, and the function foo correctly performs the addition.  The output will always be 30.  The issue reported was a misunderstanding of how closures and primitive data types interact. No changes are needed.
